@@ -1,0 +1,37 @@
+[
+  {
+    "groupName": "First Series",
+    "folderName": "10_First",
+    "children": [
+      {
+        "uuid": "98449905-8e99-4610-96ff-3c16192214b5",
+        "mf": "C8H10O",
+        "idCodeHash": "86200d52beb93183ee69cb115025e233",
+        "file": "./10_First/10_60-12-8/index.json",
+        "title": "Exercise 1",
+        "selected": true
+      },
+      {
+        "uuid": "ec2dc6b1-7899-491c-acb7-9c25ebbf7436",
+        "mf": "C3H6O",
+        "idCodeHash": "7fa7d7b32a47c289c25df930826901de",
+        "file": "./10_First/20_Second exercise/index.json",
+        "title": "Second exercise",
+        "selected": true
+      }
+    ]
+  },
+  {
+    "uuid": "1fc428a4-b56b-434a-9b3b-41d038ed085d",
+    "mf": "C8H10",
+    "idCodeHash": "eb8d2e1545be5bbd9e2067e2c8f9c8a5",
+    "file": "./20_Second level/index.json",
+    "title": "Second level",
+    "selected": true
+  },
+  {
+    "groupName": "test",
+    "folderName": "test",
+    "children": []
+  }
+]
